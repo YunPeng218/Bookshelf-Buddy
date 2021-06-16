@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "topup10",
+    "Value": 10,
+    "Status": "Used"
+  },
+  {
+    "Code": "topup20",
+    "Value": 20,
+    "Status": "Unused"
+  },
+  {
+    "Code": "topup50",
+    "Value": 50,
+    "Status": "Unused"
+  },
+  {
+    "Code": "topup100",
+    "Value": 100.0,
+    "Status": "Used"
+  },
+  {
+    "Code": "topup1",
+    "Value": 1.0,
+    "Status": "Used"
+  },
+  {
+    "Code": "topup25",
+    "Value": 25.0,
+    "Status": "Used"
+  },
+  {
+    "Code": "topup80",
+    "Value": 80.0,
+    "Status": "Used"
+  },
+  {
+    "Code": "topup5",
+    "Value": 5.0,
+    "Status": "Unused"
+  }
+]

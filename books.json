@@ -1,0 +1,83 @@
+[
+  {
+    "Book Title": "I Heart London",
+    "Author": "Lindsey Kelk",
+    "Category": "Romance",
+    "Year Published": 2019,
+    "Price": 17.97,
+    "Quantity": 21,
+    "ID": 15078
+  },
+  {
+    "Book Title": "The Big Little Festival",
+    "Author": "Kellie Hailes",
+    "Category": "Romance",
+    "Year Published": 2018,
+    "Price": 51.99,
+    "Quantity": 7,
+    "ID": 26739
+  },
+  {
+    "Book Title": "Marvel Legacy",
+    "Author": "Jason Aaron",
+    "Category": "Comics",
+    "Year Published": 2014,
+    "Price": 59.99,
+    "Quantity": 13,
+    "ID": 69482
+  },
+  {
+    "Book Title": "Who Is Wonder Woman?",
+    "Author": "Allan Heinberg",
+    "Category": "Comics",
+    "Year Published": 2016,
+    "Price": 24.99,
+    "Quantity": 42,
+    "ID": 97561
+  },
+  {
+    "Book Title": "Silence",
+    "Author": "Shusaku Endo",
+    "Category": "Literature",
+    "Year Published": 2015,
+    "Price": 72.46,
+    "Quantity": 7,
+    "ID": 10526
+  },
+  {
+    "Book Title": "Anatomy Of Cycling",
+    "Author": "Jennifer Laurita",
+    "Category": "Sports",
+    "Year Published": 2010,
+    "Price": 29.97,
+    "Quantity": 20,
+    "ID": 63940
+  },
+  {
+    "Book Title": "New York Sketchbook",
+    "Author": "Jason Brooks",
+    "Category": "Travel",
+    "Year Published": 2017,
+    "Price": 133.55,
+    "Quantity": 14,
+    "ID": 85742
+  },
+  {
+    "Book Title": "Sour Heart",
+    "Author": "Jenny Zhang",
+    "Category": "Literature",
+    "Year Published": 2016,
+    "Price": 116.78,
+    "Quantity": 21,
+    "ID": 29084
+  },
+  {
+    "Book Title": "Lonely Planet: The Big Trip",
+    "Author": "Lonely Planet",
+    "Category": "Travel",
+    "Year Published": 2004,
+    "Price": 87.15,
+    "Quantity": 11,
+    "ID": 24016
+  }
+]

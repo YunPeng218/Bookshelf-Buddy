@@ -1,5 +1,5 @@
-# Bookshop System
-This system is a simple bookshop management application created using Python. It features two types of users: buyer and admin. The admin has the authority to manage books, view purchase history, and handle gift cards, while the buyer can browse books, add them to the shopping cart, redeem gift cards, and checkout.
+# Bookshelf Buddy - Bookshop System
+This bookshop system is a simple bookshop management application created using Python. It features two types of users: buyer and admin. The admin has the authority to manage books, view purchase history, and handle gift cards, while the buyer can browse books, add them to the shopping cart, redeem gift cards, and checkout.
 # Files
 - account.json: Stores account details for both admin and buyer.
 - admin_gui.py: Frontend for the admin using tkinter.
